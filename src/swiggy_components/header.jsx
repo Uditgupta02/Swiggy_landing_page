@@ -29,7 +29,7 @@ function Header() {
             </div>
             <div className="bottom">
                 <p>POPULAR CITIES IN INDIA</p>
-                <span>  Ahmedabad</span>
+                <span>  Himachal Pradesh</span>
                 <span>  Bangalore</span>
                 <span>  Chennai</span>
                 <span>  Delhi</span>
